@@ -76,8 +76,10 @@ Proyek ini dibuat sebagai bagian dari **Tugas Besar Mata Kuliah Struktur Data**.
 
 ## Cara Compile dan Menjalankan Program
 
-Gunakan terminal dan pastikan compiler **G++** sudah terinstal.
+Pastikan compiler G++ telah terinstal pada sistem.
+Gunakan terminal dan jalankan perintah berikut:
 
 g++ -o aplikasi_musik main.cpp TUBES.cpp
 ./aplikasi_musik
+
 
