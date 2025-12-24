@@ -74,12 +74,15 @@ Proyek ini dibuat sebagai bagian dari **Tugas Besar Mata Kuliah Struktur Data**.
 * `main.cpp`
   Merupakan entry point aplikasi yang menangani inisialisasi data awal serta pemilihan peran (Admin/User).
 
-## Cara Compile dan Menjalankan Program
+## Cara Menjalankan 
 
-Pastikan compiler G++ telah terinstal pada sistem.
-Gunakan terminal dan jalankan perintah berikut:
+1. Kompilasi: Pastikan Anda memiliki compiler C++ (seperti GCC). Jalankan perintah 
+berikut di terminal: 
 
-g++ -o aplikasi_musik main.cpp TUBES.cpp
-./aplikasi_musik
+g++ -o aplikasi_musik main.cpp TUBES.cpp 
+
+2. Jalankan 
+
+./aplikasi_musik 
 
 
